@@ -13,7 +13,7 @@ align="center">
 </h1>
 <h3
 align="center">
-16 yaşındayım
+20 yaşındayım
 <br>
 <br>
 ❤️Beni takip etmeyi unutma❤️
@@ -96,7 +96,7 @@ align="center">
 </h1>
 <h3
 align="center">
-❤️I am 16 years old ❤️
+❤️I am 20 years old ❤️
 <br>
 <br>
 ❤️don't forget to follow me❤️
